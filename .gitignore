@@ -1,3 +1,4 @@
 mymail.py
 *.dtd
 Yenv/*
+.ipynb_checkpoints
